@@ -7,5 +7,5 @@ Este repositório foi feito para apresentar a resolução da [**Lista 1**](https
 
 Segue abaixo o link do PDF com as questões resolvidas
 
-* [*pdf Lista 1*]()
+* [*pdf Lista 1*](https://github.com/thiagoassisk8/TrabalhoSTR_pdf/blob/main/Atividade%20STR/Lista01-STR.pdf)
     
